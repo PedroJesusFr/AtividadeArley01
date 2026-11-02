@@ -1,6 +1,6 @@
 # Atividade 1 – Coleta e visualização de localizações
 
-Integrantes: _(preencha com os nomes)_
+Integrantes: Pedro Enrique
 
 ## Como montar o projeto
 1. Crie o projeto base (o nome e a organização definem o applicationId `com.example.localizacoes`,
